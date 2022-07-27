@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6770da75.css",
-    "main.js": "/static/js/main.2436ded2.js",
-    "static/js/787.aeee213a.chunk.js": "/static/js/787.aeee213a.chunk.js",
-    "static/media/IG logo.svg": "/static/media/IG logo.3440116ac5ddc31bdcbbfef72021ae30.svg",
-    "static/media/messenger.svg": "/static/media/messenger.cf5f8aae4b5aea697ecb29ba8f736885.svg",
-    "index.html": "/index.html",
-    "static/media/add.svg": "/static/media/add.668b614bfaea9d060758b4effc7896a7.svg",
-    "main.6770da75.css.map": "/static/css/main.6770da75.css.map",
-    "main.2436ded2.js.map": "/static/js/main.2436ded2.js.map",
-    "787.aeee213a.chunk.js.map": "/static/js/787.aeee213a.chunk.js.map"
+    "main.css": "./static/css/main.6770da75.css",
+    "main.js": "./static/js/main.7856d2b8.js",
+    "static/js/787.aeee213a.chunk.js": "./static/js/787.aeee213a.chunk.js",
+    "static/media/IG logo.svg": "./static/media/IG logo.3440116ac5ddc31bdcbbfef72021ae30.svg",
+    "static/media/messenger.svg": "./static/media/messenger.cf5f8aae4b5aea697ecb29ba8f736885.svg",
+    "index.html": "./index.html",
+    "static/media/add.svg": "./static/media/add.668b614bfaea9d060758b4effc7896a7.svg",
+    "main.6770da75.css.map": "./static/css/main.6770da75.css.map",
+    "main.7856d2b8.js.map": "./static/js/main.7856d2b8.js.map",
+    "787.aeee213a.chunk.js.map": "./static/js/787.aeee213a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6770da75.css",
-    "static/js/main.2436ded2.js"
+    "static/js/main.7856d2b8.js"
   ]
 }
