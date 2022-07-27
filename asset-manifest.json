@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Dinex-dev/instagram-clone-react/static/css/main.6770da75.css",
+    "main.js": "/Dinex-dev/instagram-clone-react/static/js/main.98096c4b.js",
+    "static/js/787.aeee213a.chunk.js": "/Dinex-dev/instagram-clone-react/static/js/787.aeee213a.chunk.js",
+    "static/media/IG logo.svg": "/Dinex-dev/instagram-clone-react/static/media/IG logo.3440116ac5ddc31bdcbbfef72021ae30.svg",
+    "static/media/messenger.svg": "/Dinex-dev/instagram-clone-react/static/media/messenger.cf5f8aae4b5aea697ecb29ba8f736885.svg",
+    "index.html": "/Dinex-dev/instagram-clone-react/index.html",
+    "static/media/add.svg": "/Dinex-dev/instagram-clone-react/static/media/add.668b614bfaea9d060758b4effc7896a7.svg",
+    "main.6770da75.css.map": "/Dinex-dev/instagram-clone-react/static/css/main.6770da75.css.map",
+    "main.98096c4b.js.map": "/Dinex-dev/instagram-clone-react/static/js/main.98096c4b.js.map",
+    "787.aeee213a.chunk.js.map": "/Dinex-dev/instagram-clone-react/static/js/787.aeee213a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6770da75.css",
+    "static/js/main.98096c4b.js"
+  ]
+}
